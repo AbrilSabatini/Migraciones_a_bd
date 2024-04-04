@@ -1,0 +1,16 @@
+{
+  "name": "migrarpaisesmongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./migrarPaises.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.3.0",
+    "node-fetch": "^3.3.2"
+  }
+}
