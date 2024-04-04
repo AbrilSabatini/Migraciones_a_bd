@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "migrarpaisesnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "migrarPaises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./migrarPaises.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "sqlite3": "^5.1.7"
+  }
+}
